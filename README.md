@@ -1,4 +1,4 @@
-t Website
+Website
 
 A responsive and modern restaurant website template for **DINE Restaurant**. This website features sections for Home, About, Menu, Gallery, and Contact, with a dynamic menu loaded from JSON using JavaScript.
 
